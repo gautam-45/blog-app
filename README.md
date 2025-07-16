@@ -27,10 +27,9 @@ A feature-rich, scalable blogging application built with **Flutter**, following 
 Screenshots of the app UI on various screens:  
 
 ### 🔐 Login & Signup  
-<p align="center">
-  <img src="assets/screenshots/signin.png" alt="Login" width="250"/>
-  <img src="assets/screenshots/signup.png" alt="Signup" width="250"/>
-</p>
+| Login Page | Signup Page |
+|------------|-------------|
+| <img src="assets/screenshots/signin.png" alt="Login" width="200"/> | <img src="assets/screenshots/signup.png" alt="Signup" width="200"/> |
 
 ### 🏠 Home, Add Blog & Blog Detail  
 | Home Page | Add New Blog | Blog Detail |
